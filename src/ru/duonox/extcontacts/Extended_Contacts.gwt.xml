@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='extended_contacts'>
+
+  <inherits name='com.extjs.gxt.ui.GXT'/>
+  <inherits name='com.google.gwt.user.theme.standard.Standard'/>
+
+  <entry-point class='ru.duonox.extcontacts.client.Extended_Contacts'/>
+
+  <source path='client'/>
+  <source path='shared'/>
+
+</module>
